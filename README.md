@@ -49,5 +49,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 <h4 align="center"><strong>Contact Me </strong><img src="https://slackmojis.com/emojis/6020-meow_headache/download" width="25"></h4>
 <p align="center">
- <a href="https://t.me/helloworld6912"><img alt="TF" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><a> <a href="https://www.instagram.com/ramit_sarkar"><img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a> 
+ <a href="https://t.me/ashish28"><img alt="TF" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><a> <a href="https://www.instagram.com/ashishh2.8"><img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a> 
 </p>
