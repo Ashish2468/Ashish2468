@@ -3,7 +3,7 @@
 <p align="center">👀 I’m interested in App Dev and </p>
 <p align="center">🌱 I’m currently working on Competitive Coding</p>
 <p align="center"> 💞️ Looking forward to collaborate on Web and App dev projects projects</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ramitsarkar902&label=Profile%20views&color=0e75b6&style=flat" alt="ramit" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ashish2468&label=Profile%20views&color=0e75b6&style=flat" alt="Ashish" /></p>
 
 
 <!--![](https://img.shields.io/badge/<Tools>-<React>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)-->
@@ -20,14 +20,14 @@ You can click the Preview link to take a look at your changes.
 
 <h3> &#x1f4c8; Contribution Graph</h3>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ramitsarkar902&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=ashish2468&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/>
 </p>
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<ramitsarkar902>&theme=<THEME_NAME>" />-->
 ## &#x269B; Language Stats
 <p align="center">
   <a align="center" href="https://github.com/harshkushwaah">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramitsarkar902&theme=react&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2468&theme=react&hide_border=true" />
   </a>
 </p>
 <!---tools used--->
@@ -40,12 +40,12 @@ You can click the Preview link to take a look at your changes.
 ## &#x1F680; GitHub Stats
 <p align="center">
   <a align="center" href="https://github.com/harshkushwaah">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramitsarkar902&show_icons=true&line_height=27&count_private=true&theme=react&hide_border=true" alt="Ramit's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish2468&show_icons=true&line_height=27&count_private=true&theme=react&hide_border=true" alt="Ramit's GitHub Stats" />
   </a>
  </p>
 <h3> &#128202; Contribution Stats</h3>
 <p align="center">
-  <img alt="Ramit's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=ramitsarkar902&theme=react&hide_border=true"/>
+  <img alt="Ramit's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=ashish2468&theme=react&hide_border=true"/>
 </p>
 <h4 align="center"><strong>Contact Me </strong><img src="https://slackmojis.com/emojis/6020-meow_headache/download" width="25"></h4>
 <p align="center">
