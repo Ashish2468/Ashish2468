@@ -1,8 +1,8 @@
 <p align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
-<p align="center">👋 Hi, I’m Ramit Sarkar</p>
-<p align="center">👀 I’m interested in Web Dev and Competitive Coding</p>
-<p align="center">🌱 I’m currently learning BlockChain managment and React</p>
-<p align="center"> 💞️ Looking forward to collaborate on Web projects</p>
+<p align="center">👋 Hi, I’m Ashish Gupta</p>
+<p align="center">👀 I’m interested in App Dev and </p>
+<p align="center">🌱 I’m currently working on Competitive Coding</p>
+<p align="center"> 💞️ Looking forward to collaborate on Web and App dev projects projects</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ramitsarkar902&label=Profile%20views&color=0e75b6&style=flat" alt="ramit" /></p>
 
 
