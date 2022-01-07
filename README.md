@@ -13,7 +13,6 @@
 <p align="center">
   <a align="center" href="https://github.com/Ashish2468">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2468&theme=react&hide_border=true" />
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2468&theme=react&hide_border=true" />
   </a>
 </p>
 <!---tools used--->
