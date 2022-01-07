@@ -22,7 +22,7 @@
 </p>
 
 
-## &#x1F680; GitHub Stats
+&#x1F680; GitHub Stats
 <p align="center">
   <a align="center" href="https://github.com/Ashish2468">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish2468&show_icons=true&line_height=27&count_private=true&theme=react&hide_border=true" alt="Ashish's GitHub Stats" />
