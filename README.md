@@ -21,6 +21,8 @@
  <img alt="vscode" src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="postman" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img alt="github" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/> 
 </p>
 <!-- https://raw.githubusercontent.com/Ashish2468/Research-Paper-Certificate/main/Ashish%20Gupta.jpeg -->
+&#x1F680; Research Paper Certificate
+<img src="https://raw.githubusercontent.com/Ashish2468/Research-Paper-Certificate/main/Ashish%20Gupta.jpeg" alt="blender" width="811" height="527"/>
 
 &#x1F680; GitHub Stats
 <p align="center">
