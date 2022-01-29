@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=ashish2468&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/>
 </p>
-## &#x269B; Language Stats
+ &#x269B; Language Stats
 <p align="center">
   <a align="center" href="https://github.com/Ashish2468">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2468&theme=react&hide_border=true" />
