@@ -5,16 +5,26 @@
 <p align="center"> 💞️ Looking forward to collaborate on App dev projects and Freelancing</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ashish2468&label=Profile%20views&color=0e75b6&style=flat" alt="Ashish" /></p>
 
-<h3> &#x1f4c8; Contribution Graph</h3>
+<h4> &#x1f4c8; Contribution Graph</h4>
+
 <!-- <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ashish2468&area_color=20232a&point=20232a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/>
-</p> -->
-<p align="center">
   <img align='center' src="https://activity-graph.herokuapp.com/graph?username=ashish2468&theme=synthwave&bg_color=20232a&hide_border=true" width="100%"/>
+</p> -->
+<!-- <h4>GitHub Stats :<h4> -->
+<hr>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashish2468&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish2468&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&count_private=true" />
+</p>
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2468&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" />
 </p>
  &#x269B; Language Stats
 <p align="center">
   <a align="center" href="https://github.com/Ashish2468">
+    <p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2468&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" />
+</p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2468&theme=react&hide_border=true" />
   </a>
 </p>
