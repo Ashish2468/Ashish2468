@@ -19,12 +19,13 @@
 <p align="center">
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2468&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" />
 </p>
- &#x269B; Language Stats
+<!--  &#x269B; Language Stats
 <p align="center">
   <a align="center" href="https://github.com/Ashish2468">
     <p align="center">
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2468&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" />
-</p>
+</p> -->
+
 <!--     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2468&theme=react&hide_border=true" /> -->
   </a>
 </p>
