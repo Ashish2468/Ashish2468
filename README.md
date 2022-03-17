@@ -7,7 +7,7 @@
 
 
 <h4> &#x1f4c8; Contribution Graph</h4>
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=sonic-saber&theme=react&hide_border=true" alt="Ashish"></p>
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=sonic-saber&theme=react-dark&hide_border=true" alt="Ashish"></p>
 <hr>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sonic-saber&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&count_private=true" />
