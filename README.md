@@ -4,6 +4,7 @@
 <p align="center">🌱 I’m currently working on research paper on Image Segmentation </p>
 <p align="center"> 💞️ Looking forward to collaborate on App dev projects and Freelancing</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sonic-saber&label=Profile%20views&color=0e75b6&style=flat" alt="Ashish" /></p>
+<img src="https://activity-graph.herokuapp.com/graph?username=sonic-sabe&theme=react&hide_border=true">
 
 <h4> &#x1f4c8; Contribution Graph</h4>
 <hr>
