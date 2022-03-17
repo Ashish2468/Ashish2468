@@ -3,16 +3,16 @@
 <p align="center">👀 I’m interested in App Dev and currently working as Software Engineer in a company </p>
 <p align="center">🌱 I’m currently working on research paper on Image Segmentation </p>
 <p align="center"> 💞️ Looking forward to collaborate on App dev projects and Freelancing</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ashish2468&label=Profile%20views&color=0e75b6&style=flat" alt="Ashish" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sonic-saber&label=Profile%20views&color=0e75b6&style=flat" alt="Ashish" /></p>
 
 <h4> &#x1f4c8; Contribution Graph</h4>
 <hr>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashish2468&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish2468&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sonic-saber&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonic-saber&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&count_private=true" />
 </p>
 <p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2468&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonic-saber&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" />
 </p>
  </a>
 </p>
@@ -24,7 +24,7 @@
 
 <h3> &#x1f4c8; Research Paper Certificate</h3>
 <p  align='center'>
-<img src="https://raw.githubusercontent.com/Ashish2468/Research-Paper-Certificate/main/Ashish%20Gupta.jpeg" alt="blender" width="811" height="527"/>
+<img src="https://raw.githubusercontent.com/sonic-saber/Research-Paper-Certificate/main/Ashish%20Gupta.jpeg" alt="blender" width="811" height="527"/>
 </p>
 
 
