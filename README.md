@@ -27,7 +27,7 @@
 <h3> &#x1f4c8; Research Paper Certificates</h3>
 <p  align='center'>
 <img src="https://raw.githubusercontent.com/sonic-saber/Research-Paper-Certificate/main/Ashish%20Gupta.jpeg" alt="blender" width="811" height="527"/>
-  <img src="https://raw.githubusercontent.com/sonic-saber/Research-Paper-Certificate/main/IEEE_Conf.pngg" alt="blender" width="811" height="527"/>
+  <img src="https://raw.githubusercontent.com/sonic-saber/Research-Paper-Certificate/main/Ashish%20Gupta2.jpeg" alt="blender" width="811" height="527"/>
 </p>
 
 
