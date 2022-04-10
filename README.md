@@ -28,7 +28,6 @@
 <p  align='center'>
 <img src="https://raw.githubusercontent.com/sonic-saber/Research-Paper-Certificate/main/Ashish%20Gupta.jpeg" alt="blender" width="811" height="527"/>
   <img src="https://raw.githubusercontent.com/sonic-saber/Research-Paper-Certificate/main/IEEE_Conf.pngg" alt="blender" width="811" height="527"/>
-  IEEE_Conf.png
 </p>
 
 
