@@ -3,14 +3,14 @@
 <p align="center">👀 I’m App Developer and working as Jr. Software Engineer in DeZen Technologies </p>
 <p align="center">🌱 I’m recently worked on research paper on Image Segmentation ,Rapid Prototyping and AI in Solar Energy</p>
 <p align="center"> 💞️ Looking forward to collaborate on App dev projects and Freelancing</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=sonic-saber&label=Profile%20views&theme=react&style=flat" alt="Ashish" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sonic-sabers&label=Profile%20views&theme=react&style=flat" alt="Ashish" /></p>
 
 
 <h4> &#x1f4c8; Contribution Graph</h4>
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=sonic-sabers&theme=react-dark&hide_border=true" alt="Ashish"></p>
 <hr>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sonic-saber&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sonic-sabers&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonic-sabers&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&count_private=true" />
 </p>
 <p align="center">
@@ -26,8 +26,8 @@
 
 <h3> &#x1f4c8; Research Paper Certificates</h3>
 <p  align='center'>
-<img src="https://raw.githubusercontent.com/sonic-saber/Research-Paper-Certificate/main/Ashish%20Gupta.jpeg" alt="blender" width="811" height="527"/>
-  <img src="https://raw.githubusercontent.com/sonic-saber/Research-Paper-Certificate/main/Ashish%20Gupta2.png" alt="blender" width="811" height="527"/>
+<img src="https://raw.githubusercontent.com/sonic-sabers/Research-Paper-Certificate/main/Ashish%20Gupta.jpeg" alt="blender" width="811" height="527"/>
+  <img src="https://raw.githubusercontent.com/sonic-sabers/Research-Paper-Certificate/main/Ashish%20Gupta2.png" alt="blender" width="811" height="527"/>
 </p>
 
 
