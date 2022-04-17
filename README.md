@@ -24,8 +24,9 @@
  <img alt="vscode" src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="postman" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img alt="github" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/> 
 </p>
 
-<h3> &#x1f4c8; Research Paper Certificates</h3>
+<h3> &#x1f4c8; Certificates of SIH and Research Papers </h3>
 <p  align='center'>
+  <img src="https://raw.githubusercontent.com/sonic-sabers/Research-Paper-Certificate/main/SIH%20Certificate.jpeg" alt="blender" width="811" height="527"/>
 <img src="https://raw.githubusercontent.com/sonic-sabers/Research-Paper-Certificate/main/Ashish%20Gupta.jpeg" alt="blender" width="811" height="527"/>
   <img src="https://raw.githubusercontent.com/sonic-sabers/Research-Paper-Certificate/main/Ashish%20Gupta2.png" alt="blender" width="811" height="527"/>
 </p>
