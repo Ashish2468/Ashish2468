@@ -2,7 +2,10 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Ashish Gupta</h1>
+
+
 # 💫 About Me:
+
 <p >👀 I’m App Developer and working as Jr. Software Engineer in DeZen Technologies <br></p>
 <p>🌱 I’m recently worked on research paper on Image Segmentation ,Rapid Prototyping and AI in Solar Energy</p>
 🔭 I’m currently working on React Native Projects.<br>👯 I’m looking to collaborate on insightful projects<br>🤝 I’m looking for Developing and contibuting to solve real world problems and to  to collaborate on App dev projects and Freelancing.<br>🌱 I’m currently exploring and learning new technologies.<br>⚡ Fun fact: I like Coffee more than Chai.
