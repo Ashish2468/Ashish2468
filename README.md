@@ -13,7 +13,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sonic-sabers&label=Profile%20views&theme=react&style=flat" alt="Ashish" /></p>
 
 
-<h4> &#x1f4c8; Contribution Graph</h4>
+<h4> &#x1f4c8; My Contribution Graph</h4>
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=sonic-sabers&theme=react-dark&hide_border=true" alt="Ashish"></p>
 <hr>
 <p align="center">
