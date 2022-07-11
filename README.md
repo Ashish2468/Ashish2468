@@ -1,8 +1,12 @@
-<p align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
-<p align="center">👋 Hi, I’m Ashish Gupta</p>
-<p align="center">👀 I’m App Developer and working as Jr. Software Engineer in DEzen Technologies </p>
-<p align="center">🌱 I’m recently worked on research paper on Image Segmentation ,Rapid Prototyping and AI in Solar Energy</p>
-<p align="center"> 💞️ Looking forward to collaborate on App dev projects and Freelancing</p>
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Ashish Gupta</h1>
+         # 💫 About Me:
+<p >👀 I’m App Developer and working as Jr. Software Engineer in DeZen Technologies <br></p>
+<p>🌱 I’m recently worked on research paper on Image Segmentation ,Rapid Prototyping and AI in Solar Energy</p>
+🔭 I’m currently working on React Native Projects.<br>👯 I’m looking to collaborate on insightful projects<br>🤝 I’m looking for Developing and contibuting to solve real world problems and to  to collaborate on App dev projects and Freelancing.<br>🌱 I’m currently exploring and learning new technologies.<br>⚡ Fun fact: I like Coffee more than Chai.
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sonic-sabers&label=Profile%20views&theme=react&style=flat" alt="Ashish" /></p>
 
 
