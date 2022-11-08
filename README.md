@@ -36,7 +36,7 @@
 <p  align='center'>
 <!---tools use  <img src="https://raw.githubusercontent.com/sonic-sabers/Research-Paper-Certificate/main/SIH%20Certificate.jpeg" alt="blender" width="811" height="527"/>d --->
 <img src="https://raw.githubusercontent.com/sonic-sabers/Research-Paper-Certificate/main/Ashish%20Gupta.jpeg" alt="blender" width="811" height="527"/>
-<img src="https://raw.githubusercontent.com/sonic-sabers/Research-Paper-Certificate/main/ACM_Certificate.png" alt="blender" width="811" height="527"/>
+<!-- <img src="https://raw.githubusercontent.com/sonic-sabers/Research-Paper-Certificate/main/ACM_Certificate.png" alt="blender" width="811" height="527"/> -->
   <img src="https://raw.githubusercontent.com/sonic-sabers/Research-Paper-Certificate/main/Ashish%20Gupta2.png" alt="blender" width="811" height="527"/>
 </p>
 
