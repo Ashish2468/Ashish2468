@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-<p >🟦 Building ScaleRich<br></p>
+
 <p >🔴🔵🟡🟢 GDSC's Compose Camp facilitator<br></p>
 <p >👀 I’m App Developer and working as Jr. Software Engineer in DeZen Technologies <br></p>
 <p>🌱 I’m recently worked on research paper on Image Segmentation ,Rapid Prototyping and AI in Solar Energy</p>
