@@ -7,15 +7,15 @@
 # 💫 About Me:
 
 <p >🔴🔵🟡🟢 GDSC's Compose Camp facilitator<br></p>
-<p >👀 I’m App Developer and working as Jr. Software Engineer in DeZen Technologies <br></p>
+<p >👀 I’m App Developer and working as Frontend intern at Avalon Meta <br></p>
 <p>🌱 I’m recently worked on research paper on Image Segmentation ,Rapid Prototyping and AI in Solar Energy</p>
 🔭 I’m currently working on React Native Projects.<br>👯 I’m looking to collaborate on insightful projects<br>🤝 I’m looking for Developing and contibuting to solve real world problems and to  to collaborate on App dev projects and Freelancing.<br>🌱 I’m currently exploring and learning new technologies.<br>⚡ Fun fact: I like Coffee more than Chai.
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sonic-sabers&label=Profile%20views&theme=react&style=flat" alt="Ashish" /></p>
 
 
-<h4> &#x1f4c8; My Contribution Graph</h4>
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=sonic-sabers&theme=react-dark&hide_border=true" alt="Ashish"></p>
+<!-- <h4> &#x1f4c8; My Contribution Graph</h4> -->
+<!-- <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=sonic-sabers&theme=react-dark&hide_border=true" alt="Ashish"></p> -->
 <hr>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sonic-sabers&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&count_private=true" />
