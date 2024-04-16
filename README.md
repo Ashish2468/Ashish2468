@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-<p >👀 I’m a Software Developer who previously at BlueLearn and at Avalon Meta <br></p>
+<p >👀 I’m a Software Developer & QA at Instaservice , previously worked at BlueLearn and at Avalon Meta <br></p>
 <p >🔴🔵🟡🟢Ex GDSC's App dev Head and Compose Camp facilitator<br></p>
 <p>🌱 I’m recently worked on a research paper on Image Segmentation,Rapid Prototyping and AI in Solar Energy</p>
 🔭 I’m currently working on React Native Projects.<br>👯 I’m looking to collaborate on insightful projects<br>🤝 I’m looking to develop and contribute to solve real-world problems and to collaborate on App dev projects and Freelancing.<br>🌱 I’m currently exploring and learning new technologies.<br>⚡ Fun fact: I like Coffee more than Chai.
