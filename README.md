@@ -17,13 +17,22 @@
 <!-- <h4> &#x1f4c8; My Contribution Graph</h4> -->
 <!-- <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=sonic-sabers&theme=react-dark&hide_border=true" alt="Ashish"></p> -->
 <hr>
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sonic-sabers&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonic-sabers&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&count_private=true" />
 </p>
 <p align="center">
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonic-sabers&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" />
-</p>
+</p> -->
+<div align="center">
+          <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonic-sabers&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonic-saber&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonic-saber&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sonic-saber&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sonic-saber&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sonic-saber&theme=github_dark" />
+</div>
+
  </a>
 </p>
 <!---tools used--->
