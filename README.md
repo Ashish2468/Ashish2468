@@ -26,11 +26,11 @@
 </p> -->
 <div align="center">
           <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonic-sabers&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonic-saber&theme=github_dark" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonic-saber&theme=github_dark"  />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sonic-saber&theme=github_dark"  />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sonic-saber&theme=github_dark"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sonic-saber&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonic-sabers&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonic-sabers&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sonic-sabers&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sonic-sabers&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sonic-sabers&theme=github_dark" />
 </div>
 
  </a>
